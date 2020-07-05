@@ -7,7 +7,7 @@
     "price":"MRP 498",
     "mrf":"Rs 408",
     "img_url":"https://5.imimg.com/data5/RG/UQ/MY-56685002/ghee-milkfood-500x500.jpg",
-    "offerText":"18% OFF",
+    "offerText":"18% OFF"
   },
   {
     "brandName":"Grofers Mother's Choice",
@@ -16,7 +16,7 @@
     "price":"MRP 450",
     "mrf":"RS 414",
     "img_url":"https://cdn.grofers.com/app/images/products/full_screen/pro_391299.jpg",
-    "offerText":"8% OFF",
+    "offerText":"8% OFF"
   },
   {
     "brandName":"Amul",
@@ -25,7 +25,7 @@
     "price":"MRP 460",
     "mrf":"RS 439",
     "img_url":"https://images-na.ssl-images-amazon.com/images/I/61VUanxgukL._SX569_.jpg",
-    "offerText":"2% OFF",
+    "offerText":"2% OFF"
   }
   ]
 }
