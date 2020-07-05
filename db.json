@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+    "brandName":"Milkfood",
+    "productName":"Milkfood Rich Desi Danedar Ghee",
+    "quantity":"1l",
+    "price":"MRP 498",
+    "mrf":"Rs 408",
+    "img_url":"",
+    "offerText":"18% OFF",
+  },
+  {
+    "brandName":"Grofers Mother's Choice",
+    "productName":"Grofers Mother's ChoiceDesi Ghee",
+    "quantity":"1l",
+    "price":"MRP 450",
+    "mrf":"RS 414",
+    "img_url":"",
+    "offerText":"8% OFF",
+  },
+  {
+    "brandName":"Amul",
+    "productName":"Amul Pure Ghee",
+    "quantity":"1l",
+    "price":"MRP 460",
+    "mrf":"RS 439",
+    "img_url":"",
+    "offerText":"2% OFF",
+  }
+  ]
+}
